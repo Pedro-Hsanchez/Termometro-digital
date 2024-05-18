@@ -19,7 +19,7 @@ O NodeMCU é uma plataforma de desenvolvimento open-source baseada no módulo Wi
 - **Alimentação:** 3.3V
 - **Interfaces:** UART, I2C, SPI, PWM
 
-Imagem: ![image](https://github.com/Pedro-Hsanchez/Termometro-digital/assets/160167596/5da4adcf-5ccb-472e-a38e-b3f95378b680)
+Imagem:    ![image](https://github.com/Pedro-Hsanchez/Termometro-digital/assets/160167596/5da4adcf-5ccb-472e-a38e-b3f95378b680)
 
 
 
@@ -37,7 +37,7 @@ O DS18B20 é um sensor de temperatura digital que fornece leituras de alta preci
 - **Encapsulamento:** Aço inoxidável à prova d'água
 
 **Imagem:**
-Sensor DS18B20: ![image](https://github.com/Pedro-Hsanchez/Termometro-digital/assets/160167596/ff392590-36ba-47d0-8725-ad7b0dd0c500)
+Sensor DS18B20:    ![image](https://github.com/Pedro-Hsanchez/Termometro-digital/assets/160167596/ff392590-36ba-47d0-8725-ad7b0dd0c500)
 
 
 ### Display OLED 0.96" I2C SSD1306
@@ -53,7 +53,7 @@ O display OLED 0.96" com controlador SSD1306 é um módulo compacto que utiliza 
 - **Contraste:** Alta relação de contraste para melhor visibilidade
 
 **Imagem:**
-Display OLED SSD1306: ![image](https://github.com/Pedro-Hsanchez/Termometro-digital/assets/160167596/2d8e5cc2-2474-48ec-b427-6f948e32a65c)
+Display OLED SSD1306:   ![image](https://github.com/Pedro-Hsanchez/Termometro-digital/assets/160167596/2d8e5cc2-2474-48ec-b427-6f948e32a65c)
 
 
 ### Protoboard 400 Pontos
@@ -67,7 +67,7 @@ A protoboard é uma placa de ensaio sem solda com 400 pontos de conexão, ideal 
 - **Material:** Plástico ABS com contatos em fosfor bronze
 
 **Imagem:**
-Protoboard 400 Pontos: ![image](https://github.com/Pedro-Hsanchez/Termometro-digital/assets/160167596/9c9d4bd9-2b24-4a28-b3b9-493066c6c898)
+Protoboard 400 Pontos:   ![image](https://github.com/Pedro-Hsanchez/Termometro-digital/assets/160167596/9c9d4bd9-2b24-4a28-b3b9-493066c6c898)
 
 
 ### Kit Cabo Jumper Macho x Fêmea
@@ -81,7 +81,7 @@ O kit de cabos jumper é essencial para conexões rápidas e seguras em protoboa
 - **Isolamento:** Plástico flexível
 
 **Imagem:**
-Kit Cabo Jumper: ![image](https://github.com/Pedro-Hsanchez/Termometro-digital/assets/160167596/542ad984-fe21-47c9-805b-1037cf0ec211)
+Kit Cabo Jumper:   ![image](https://github.com/Pedro-Hsanchez/Termometro-digital/assets/160167596/542ad984-fe21-47c9-805b-1037cf0ec211)
 
 ### Resistor 4.7kΩ
 **Descrição:**
@@ -95,13 +95,13 @@ Um resistor de 4.7kΩ é utilizado no circuito para garantir a operação adequa
 - **Temperatura de Operação:** -55°C a +155°C
 
 **Imagem:**
-Resistor 4.7kΩ: ![image](https://github.com/Pedro-Hsanchez/Termometro-digital/assets/160167596/fd489331-b637-492d-9b90-d761072465c2)
+Resistor 4.7kΩ:   ![image](https://github.com/Pedro-Hsanchez/Termometro-digital/assets/160167596/fd489331-b637-492d-9b90-d761072465c2)
 
 
 ## Diagrama de Conexão
 Abaixo está um diagrama de conexão ilustrando como todos os componentes são conectados:
 
-Diagrama de Conexão: ![image](https://github.com/Pedro-Hsanchez/Termometro-digital/assets/160167596/048172c3-70b7-4802-ab23-0cfcc1483b86)
+Diagrama de Conexão:   ![image](https://github.com/Pedro-Hsanchez/Termometro-digital/assets/160167596/048172c3-70b7-4802-ab23-0cfcc1483b86)
 
 
 ## Instruções para Reproduzir
