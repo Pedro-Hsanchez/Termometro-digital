@@ -110,7 +110,7 @@ Diagrama de Conexão:   ![image](https://github.com/Pedro-Hsanchez/Termometro-di
     git clone https://github.com/usuario/projeto-termometro-digital.git
     ```
 2. **Instale as Dependências:**
-    - Arduino IDE com as bibliotecas necessárias (OneWire, DallasTemperature, Adafruit SSD1306, Adafruit GFX)
+    - Arduino IDE com as bibliotecas necessárias (OneWire, Wire.h, DallasTemperature, Adafruit SSD1306, ESP8266WiFi.h, PubSubClient.h, UbidotsESPMQTT.h )
 3. **Conecte os Componentes:**
     - Siga o diagrama de conexão acima.
 4. **Carregue o Código:**
