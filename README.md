@@ -37,7 +37,8 @@ Este projeto está licenciado sob a MIT License.
 ## Uso
 O dispositivo exibirá os a temperatura no display LCD e enviará os dados para o broker MQTT.
 
-[Link para vídeo de demonstração]([https://www.youtube.com/seuvideo](https://www.youtube.com/watch?v=JcxSqPZpPuc&t=43s))
+[Link para vídeo de demonstração][([https://www.youtube.com/seuvideo](https://www.youtube.com/watch?v=JcxSqPZpPuc&t=43s))](https://www.youtube.com/watch?v=JcxSqPZpPuc&t=43s)
+
 
 ## Estrutura do Repositório
 - `Codigo/`: Contém o código fonte do projeto.
